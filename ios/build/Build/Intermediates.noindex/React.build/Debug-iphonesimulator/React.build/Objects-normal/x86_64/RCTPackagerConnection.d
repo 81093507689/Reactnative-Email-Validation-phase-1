@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/DevSupport/RCTPackagerConnection.mm \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Base/RCTBundleURLProvider.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/developer/Documents/ALLData/OtherDetail/Reactnative/tryReact1/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h
